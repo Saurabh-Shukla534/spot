@@ -1,0 +1,19 @@
+{
+  "name": "spot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saurabh-Shukla534/spot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saurabh-Shukla534/spot/issues"
+  },
+  "homepage": "https://github.com/Saurabh-Shukla534/spot#readme"
+}
